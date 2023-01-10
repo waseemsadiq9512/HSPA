@@ -1,0 +1,45 @@
+[
+  {
+    "Id": 1,
+    "SellRent":1,
+    "Name":"Birla House",
+    "Type":"House",
+    "Price": 12000,
+    "Image": "house-1"
+  },
+  {
+    "Id": 2,
+    "SellRent":1,
+    "Name":"CP House",
+    "Type":"House",
+    "Price": 15000
+  },
+  {
+    "Id": 3,
+    "SellRent":2,
+    "Name":"DHA House",
+    "Type":"House",
+    "Price": 22000
+  },
+  {
+    "Id": 4,
+    "SellRent":1,
+    "Name":"Model House",
+    "Type":"House",
+    "Price": 17000
+  },
+  {
+    "Id": 5,
+    "SellRent":2,
+    "Name":"Nishtar House",
+    "Type":"House",
+    "Price": 27000
+  },
+  {
+    "Id": 6,
+    "SellRent":1,
+    "Name":"Town House",
+    "Type":"House",
+    "Price": 37000
+  }
+]
